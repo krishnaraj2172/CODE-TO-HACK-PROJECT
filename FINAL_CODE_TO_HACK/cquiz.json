@@ -1,0 +1,76 @@
+[
+    {
+        "1": "How many Keywords are there in C Programming language ?",
+        "2": "Consider the following variable declarations and definitions in C\n\ni) int var_9 = 1;\nii) int 9_var = 2;\niii) int _ = 3;",
+        "3": "Let x be an integer which can take a value of 0 or 1. The statement if(x = =0) x = 1; else x = 0; is equivalent to which one of the following?",
+        "4": "Which of the followings is correct for a function definition along with storage-class specifier in C language?",
+        "5": "What does the following C statement mean?\nscanf('%4s', str)",
+        "6": "In the context of \"break\" and \"continue\" statements in C, pick the best statement.",
+        "7": "The C language is?",
+        "8": "Which of the following best describes C language?",
+        "9": "Which of the following is not a valid declaration in C?\nshort int x;\nsigned short x;\nshort x;\nunsigned short x;",
+        "10": "In C, parameters are always"
+    },
+    {
+        "1": [
+            "23",
+            "32",
+            "33",
+            "43"
+        ],
+        "2": [
+            "Both i) and iii) are valid",
+            "Only i) is valid",
+            "Both i) and ii) are valid",
+            "All are valid"
+        ],
+        "3": [
+            "x=1+x;",
+            "x=1-x;",
+            "x=x-1;",
+            "x=1%x"
+        ],
+        "4": [
+            "int fun(auto int arg)",
+            "int fun(static int arg)",
+            "int fun(register int arg)",
+            "int fun(extern int arg)"
+        ],
+        "5": [
+            "Read exactly 4 characters from console.",
+            "Read maximum 4 characters from console",
+            "Read a string str in multiples of 4",
+            "None"
+        ],
+        "6": [
+            "“break” can be used in “for”, “while” and “do-while” loop body.",
+            "“continue” can be used in “for”, “while” and “do-while” loop body.",
+            "“break” and “continue” can be used in “for”, “while”, “do-while” loop body and “switch” body.",
+            "“break” and “continue” can be used in “for”, “while” and “do-while” loop body. But only “break” can be used in “switch” body."
+        ],
+        "7": [
+            "A context free language",
+            "A context sensitive language",
+            "A regular language",
+            "Parsable fully only by a Turing machine"
+        ],
+        "8": [
+            "C is a low level language",
+            "C is a high level language",
+            "C is a high level language with features that support low level programming",
+            "C is a very high level language"
+        ],
+        "9": [
+            "3 and 4",
+            "2",
+            "1",
+            "All are valid"
+        ],
+        "10": [
+            "Passed by value",
+            "Passed by reference",
+            "Non-pointer variables are passed by value and pointers are passed by reference",
+            "Passed by value result"
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "1": "Where does the object is created?",
+        "2": "How to access the object in the class?",
+        "3": "Pick out the other definition of objects.",
+        "4": "How many objects can present in a single class?",
+        "5": "Which special character is used to mark the end of class?",
+        "6": "The programs machine instructions are store in __ memory segment.",
+        "7": "With respective to streams >> (operator) is called as",
+        "8": "Inline functions are useful when",
+        "9": "The associativity of which of the following operators is Left to Right, in C++ ?",
+        "10": "A member function can always access the data in __________ , (in C++)."
+    },
+    {
+        "1": [
+            "class",
+            "constructor",
+            "destructor",
+            "attributes"
+        ],
+        "2": [
+            "scope resolution operator",
+            "ternary operator",
+            "direct member access operator",
+            "resolution operator"
+        ],
+        "3": [
+            "member of the class",
+            "associate of the class",
+            "attribute of the class",
+            "instance of the class"
+        ],
+        "4": [
+            "1",
+            "2",
+            "3",
+            "As many as possible"
+        ],
+        "5": [
+            ":",
+            ";",
+            "}",
+            ">"
+        ],
+        "6": [
+            "Data",
+            "Stack",
+            "Heap",
+            "Code"
+        ],
+        "7": [
+            "Insertion Operator",
+            "Extraction Operator",
+            "Right Shift Operator",
+            "Left Shift Operator"
+        ],
+        "8": [
+            "Function is large with many nested loops",
+            "Function has many static variables",
+            "Function is small and we want to avoid function call overhead",
+            "None of the above"
+        ],
+        "9": [
+            "Unary Operator",
+            "Logical Not",
+            "Array element access",
+            "addressof"
+        ],
+        "10": [
+            "the class of which it is member",
+            "the object of which it is a member",
+            "the public part of its class",
+            "the private part of its class"
+        ]
+    }
+]

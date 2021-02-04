@@ -1,0 +1,76 @@
+[
+    {
+        "1": "What is output for −\n\nb = [11,13,15,17,19,21]\n\nptint(b[::2])",
+        "2": "Which of the following functions takes A console Input in Python ?",
+        "3": "What is the output of the following program :\nprint \"Hello World\"[::-1]\n",
+        "4": "Which of The Following is must to Execute a Python Code ?",
+        "5": "Given a function that does not return any value, what value is shown when executed at the shell?",
+        "6": "The append Method adds value to the list at the  ?",
+        "7": "What is the output of the following program :\nprint 0.1 + 0.2 == 0.3\n",
+        "8": "Given a string s = “Welcome”, which of the following code is incorrect?",
+        "9": "Which of the following keyword is used to create a function in Python ?",
+        "10": "To Declare a Global variable in python we use the keyword ?"
+    },
+    {
+        "1": [
+            "[19,21]",
+            "[11,15]",
+            "[11,15,19]",
+            "[13,17,21]"
+        ],
+        "2": [
+            "get()",
+            "input()",
+            "gets()",
+            "scan()"
+        ],
+        "3": [
+            "dlroW olleH",
+            "World Hello",
+            "d",
+            "Error"
+        ],
+        "4": [
+            "TURBO C",
+            "Py Interpreter",
+            "Notepad",
+            "IDE"
+        ],
+        "5": [
+            "int",
+            "bool",
+            "void",
+            "None"
+        ],
+        "6": [
+            "custom location",
+            "end",
+            "center",
+            "beginning"
+        ],
+        "7": [
+            "True",
+            "False",
+            "Machine Dependent",
+            "Error"
+        ],
+        "8": [
+            "print s[0]",
+            "print s.lower()",
+            "s[1] = ‘r’",
+            "print s.strip()"
+        ],
+        "9": [
+            "function",
+            "void",
+            "fun",
+            "def"
+        ],
+        "10": [
+            "all",
+            "var",
+            "let",
+            "global"
+        ]
+    }
+]
